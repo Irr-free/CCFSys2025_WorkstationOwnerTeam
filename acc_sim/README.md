@@ -1,0 +1,1 @@
+This simulator relays on googletest

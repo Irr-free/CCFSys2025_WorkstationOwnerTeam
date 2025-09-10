@@ -1,0 +1,23 @@
+.idea/
+
+# CMake build directories
+cmake-build-*/
+cmake-build-debug/
+cmake-build-default/
+cmake-build-default-remote-host/
+
+# dataset
+# acc_sim/data/
+*.txt
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+*.dll
+
+# Other temporary files
+*.log
+*.swp
+*~
